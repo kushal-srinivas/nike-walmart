@@ -1,0 +1,18 @@
+Itemset,Support
+{'Milk'},3
+{'Bread'},3
+{'Eggs'},4
+{'Butter'},3
+{'Cheese'},2
+{'Cereal'},2
+{'Chicken'},3
+{'Beef'},2
+{'Pasta'},3
+{'Rice'},3
+"{'Milk', 'Bread'}",3
+"{'Cereal', 'Milk'}",2
+"{'Cereal', 'Bread'}",2
+"{'Cheese', 'Eggs'}",2
+"{'Pasta', 'Butter'}",2
+"{'Chicken', 'Rice'}",2
+"{'Cereal', 'Milk', 'Bread'}",2
